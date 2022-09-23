@@ -1,0 +1,2358 @@
+[2022-08-27 18:01:44.276] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.0, lr: 0.01, ewc_lambda: 0.1, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-27 18:01:44.719] [test] [info] 14541, 237
+[2022-08-27 18:02:06.597] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-27 18:04:53.873] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.188170
+Mean Rank: 681.215577
+Hits@1: 0.117585
+Hits@10: 0.329400
+=================================
+[2022-08-27 18:04:54.186] [test] [info] delta: 17908252.0
+[2022-08-27 18:04:54.280] [test] [info] t:2, training size: 27212, total size: 163269
+[2022-08-27 18:05:30.603] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.139364
+Mean Rank: 1116.172530
+Hits@1: 0.086876
+Hits@10: 0.244576
+=================================
+[2022-08-27 18:05:30.703] [test] [info] delta: 1339721.75
+[2022-08-27 18:05:30.786] [test] [info] t:3, training size: 27211, total size: 190480
+[2022-08-27 18:06:06.607] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.142650
+Mean Rank: 1095.327543
+Hits@1: 0.090223
+Hits@10: 0.245822
+=================================
+[2022-08-27 18:06:06.739] [test] [info] delta: 1262553.25
+[2022-08-27 18:06:06.835] [test] [info] t:4, training size: 13606, total size: 204086
+[2022-08-27 18:06:28.515] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.131598
+Mean Rank: 1264.829278
+Hits@1: 0.081770
+Hits@10: 0.230358
+=================================
+[2022-08-27 18:06:28.638] [test] [info] delta: 437274.34375
+[2022-08-27 18:06:28.745] [test] [info] t:5, training size: 13606, total size: 217692
+[2022-08-27 18:06:50.846] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.137321
+Mean Rank: 1266.148295
+Hits@1: 0.088879
+Hits@10: 0.234047
+=================================
+[2022-08-27 18:06:53.637] [test] [info] delta: 467472.78125
+[2022-08-27 18:06:53.786] [test] [info] t:6, training size: 13605, total size: 231297
+[2022-08-27 18:07:15.271] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.131931
+Mean Rank: 1288.486710
+Hits@1: 0.084115
+Hits@10: 0.225569
+=================================
+[2022-08-27 18:07:20.722] [test] [info] delta: 434198.4375
+[2022-08-27 18:07:20.885] [test] [info] t:7, training size: 13606, total size: 244903
+[2022-08-27 18:07:43.801] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.133686
+Mean Rank: 1288.897586
+Hits@1: 0.084579
+Hits@10: 0.229185
+=================================
+[2022-08-27 18:07:46.489] [test] [info] delta: 455979.375
+[2022-08-27 18:07:46.621] [test] [info] t:8, training size: 13606, total size: 258509
+[2022-08-27 18:08:08.088] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.126246
+Mean Rank: 1259.008844
+Hits@1: 0.076468
+Hits@10: 0.226204
+=================================
+[2022-08-27 18:08:10.028] [test] [info] delta: 424519.125
+[2022-08-27 18:08:10.172] [test] [info] t:9, training size: 13606, total size: 272115
+[2022-08-27 18:08:31.621] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.132776
+Mean Rank: 1232.035620
+Hits@1: 0.083480
+Hits@10: 0.229649
+=================================
+[2022-08-27 18:08:31.622] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.1, lr: 0.01, ewc_lambda: 0.1, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-27 18:08:32.102] [test] [info] 14541, 237
+[2022-08-27 18:08:32.155] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-27 18:11:02.862] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.183845
+Mean Rank: 626.019422
+Hits@1: 0.115362
+Hits@10: 0.324147
+=================================
+[2022-08-27 18:11:02.946] [test] [info] delta: 16391521.0
+[2022-08-27 18:11:03.013] [test] [info] t:2, training size: 40817, total size: 163269
+[2022-08-27 18:11:54.184] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.145061
+Mean Rank: 939.751099
+Hits@1: 0.091933
+Hits@10: 0.250318
+=================================
+[2022-08-27 18:11:54.289] [test] [info] delta: 1864830.5
+[2022-08-27 18:11:54.371] [test] [info] t:3, training size: 43537, total size: 190480
+[2022-08-27 18:12:47.421] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.151961
+Mean Rank: 924.194200
+Hits@1: 0.094083
+Hits@10: 0.265269
+=================================
+[2022-08-27 18:12:47.536] [test] [info] delta: 1892382.5
+[2022-08-27 18:12:47.631] [test] [info] t:4, training size: 32654, total size: 204086
+[2022-08-27 18:13:28.935] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.148087
+Mean Rank: 984.905722
+Hits@1: 0.093668
+Hits@10: 0.254862
+=================================
+[2022-08-27 18:13:29.060] [test] [info] delta: 1132578.0
+[2022-08-27 18:13:29.162] [test] [info] t:5, training size: 34014, total size: 217692
+[2022-08-27 18:14:12.327] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.149003
+Mean Rank: 949.664028
+Hits@1: 0.093057
+Hits@10: 0.260676
+=================================
+[2022-08-27 18:14:12.458] [test] [info] delta: 1144057.5
+[2022-08-27 18:14:12.568] [test] [info] t:6, training size: 35374, total size: 231297
+[2022-08-27 18:14:57.101] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.148193
+Mean Rank: 931.827494
+Hits@1: 0.093252
+Hits@10: 0.255986
+=================================
+[2022-08-27 18:14:57.241] [test] [info] delta: 1083496.25
+[2022-08-27 18:14:57.357] [test] [info] t:7, training size: 36735, total size: 244903
+[2022-08-27 18:15:43.076] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.149839
+Mean Rank: 884.820141
+Hits@1: 0.096062
+Hits@10: 0.257232
+=================================
+[2022-08-27 18:15:43.225] [test] [info] delta: 1077124.75
+[2022-08-27 18:15:43.348] [test] [info] t:8, training size: 38096, total size: 258509
+[2022-08-27 18:16:31.645] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.152229
+Mean Rank: 834.219926
+Hits@1: 0.094694
+Hits@10: 0.265562
+=================================
+[2022-08-27 18:16:31.811] [test] [info] delta: 1071484.5
+[2022-08-27 18:16:31.946] [test] [info] t:9, training size: 39456, total size: 272115
+[2022-08-27 18:17:21.272] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.154549
+Mean Rank: 778.730944
+Hits@1: 0.096990
+Hits@10: 0.267150
+=================================
+[2022-08-27 18:17:21.272] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.2, lr: 0.01, ewc_lambda: 0.1, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-27 18:17:21.758] [test] [info] 14541, 237
+[2022-08-27 18:17:21.811] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-27 18:19:52.161] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186110
+Mean Rank: 656.599775
+Hits@1: 0.116290
+Hits@10: 0.326297
+=================================
+[2022-08-27 18:19:52.244] [test] [info] delta: 18838494.0
+[2022-08-27 18:19:52.312] [test] [info] t:2, training size: 54423, total size: 163269
+[2022-08-27 18:20:57.710] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.156334
+Mean Rank: 882.752028
+Hits@1: 0.097699
+Hits@10: 0.272647
+=================================
+[2022-08-27 18:20:57.811] [test] [info] delta: 3355307.5
+[2022-08-27 18:20:57.897] [test] [info] t:3, training size: 59864, total size: 190480
+[2022-08-27 18:22:08.161] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.160054
+Mean Rank: 847.679957
+Hits@1: 0.101021
+Hits@10: 0.280709
+=================================
+[2022-08-27 18:22:08.276] [test] [info] delta: 3099021.75
+[2022-08-27 18:22:08.374] [test] [info] t:4, training size: 51702, total size: 204086
+[2022-08-27 18:23:11.194] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.156024
+Mean Rank: 895.641210
+Hits@1: 0.098358
+Hits@10: 0.271377
+=================================
+[2022-08-27 18:23:11.319] [test] [info] delta: 2146020.5
+[2022-08-27 18:23:11.422] [test] [info] t:5, training size: 54423, total size: 217692
+[2022-08-27 18:24:17.182] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.154534
+Mean Rank: 865.190926
+Hits@1: 0.096355
+Hits@10: 0.270791
+=================================
+[2022-08-27 18:24:17.324] [test] [info] delta: 2110567.75
+[2022-08-27 18:24:17.439] [test] [info] t:6, training size: 57143, total size: 231297
+[2022-08-27 18:25:25.803] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.156701
+Mean Rank: 810.893751
+Hits@1: 0.097576
+Hits@10: 0.275945
+=================================
+[2022-08-27 18:25:25.942] [test] [info] delta: 1951428.375
+[2022-08-27 18:25:26.062] [test] [info] t:7, training size: 59865, total size: 244903
+[2022-08-27 18:26:37.476] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.160320
+Mean Rank: 774.544024
+Hits@1: 0.100264
+Hits@10: 0.280734
+=================================
+[2022-08-27 18:26:37.625] [test] [info] delta: 1878144.0
+[2022-08-27 18:26:37.751] [test] [info] t:8, training size: 62586, total size: 258509
+[2022-08-27 18:27:51.588] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.162879
+Mean Rank: 728.595085
+Hits@1: 0.102511
+Hits@10: 0.284741
+=================================
+[2022-08-27 18:27:51.744] [test] [info] delta: 1781973.5
+[2022-08-27 18:27:51.876] [test] [info] t:9, training size: 65307, total size: 272115
+[2022-08-27 18:29:08.577] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.162000
+Mean Rank: 690.898319
+Hits@1: 0.102169
+Hits@10: 0.282688
+=================================
+[2022-08-27 18:29:08.578] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.3, lr: 0.01, ewc_lambda: 0.1, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-27 18:29:09.061] [test] [info] 14541, 237
+[2022-08-27 18:29:09.115] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-27 18:31:39.918] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.184002
+Mean Rank: 672.582796
+Hits@1: 0.112870
+Hits@10: 0.328863
+=================================
+[2022-08-27 18:31:40.002] [test] [info] delta: 17631530.0
+[2022-08-27 18:31:40.070] [test] [info] t:2, training size: 68029, total size: 163269
+[2022-08-27 18:33:00.909] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.160186
+Mean Rank: 847.009162
+Hits@1: 0.098138
+Hits@10: 0.283201
+=================================
+[2022-08-27 18:33:01.010] [test] [info] delta: 4466425.0
+[2022-08-27 18:33:01.091] [test] [info] t:3, training size: 76191, total size: 190480
+[2022-08-27 18:34:30.098] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.165471
+Mean Rank: 787.346844
+Hits@1: 0.102023
+Hits@10: 0.291459
+=================================
+[2022-08-27 18:34:30.218] [test] [info] delta: 4454859.0
+[2022-08-27 18:34:30.317] [test] [info] t:4, training size: 70750, total size: 204086
+[2022-08-27 18:35:53.484] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.166638
+Mean Rank: 819.367952
+Hits@1: 0.104344
+Hits@10: 0.291972
+=================================
+[2022-08-27 18:35:53.608] [test] [info] delta: 3553808.75
+[2022-08-27 18:35:53.711] [test] [info] t:5, training size: 74831, total size: 217692
+[2022-08-27 18:37:21.232] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.164682
+Mean Rank: 780.656137
+Hits@1: 0.102169
+Hits@10: 0.290653
+=================================
+[2022-08-27 18:37:21.364] [test] [info] delta: 3190280.5
+[2022-08-27 18:37:21.486] [test] [info] t:6, training size: 78912, total size: 231297
+[2022-08-27 18:38:53.213] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.166506
+Mean Rank: 740.046931
+Hits@1: 0.103098
+Hits@10: 0.292974
+=================================
+[2022-08-27 18:38:53.359] [test] [info] delta: 2964198.75
+[2022-08-27 18:38:53.479] [test] [info] t:7, training size: 82995, total size: 244903
+[2022-08-27 18:40:29.447] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.163841
+Mean Rank: 717.248094
+Hits@1: 0.100239
+Hits@10: 0.293975
+=================================
+[2022-08-27 18:40:29.596] [test] [info] delta: 2783558.5
+[2022-08-27 18:40:29.721] [test] [info] t:8, training size: 87076, total size: 258509
+[2022-08-27 18:42:09.735] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.165140
+Mean Rank: 682.944664
+Hits@1: 0.101046
+Hits@10: 0.294879
+=================================
+[2022-08-27 18:42:09.892] [test] [info] delta: 2612039.0
+[2022-08-27 18:42:10.026] [test] [info] t:9, training size: 91158, total size: 272115
+[2022-08-27 18:43:54.957] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.165803
+Mean Rank: 654.023649
+Hits@1: 0.102487
+Hits@10: 0.292167
+=================================
+[2022-08-27 18:43:54.958] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.4, lr: 0.01, ewc_lambda: 0.1, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-27 18:43:55.447] [test] [info] 14541, 237
+[2022-08-27 18:43:55.505] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-27 18:46:25.758] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186973
+Mean Rank: 651.690633
+Hits@1: 0.121787
+Hits@10: 0.318675
+=================================
+[2022-08-27 18:46:25.842] [test] [info] delta: 14072262.0
+[2022-08-27 18:46:25.909] [test] [info] t:2, training size: 81634, total size: 163269
+[2022-08-27 18:48:00.409] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.163374
+Mean Rank: 769.727035
+Hits@1: 0.105101
+Hits@10: 0.281100
+=================================
+[2022-08-27 18:48:00.508] [test] [info] delta: 3200660.5
+[2022-08-27 18:48:00.591] [test] [info] t:3, training size: 92518, total size: 190480
+[2022-08-27 18:49:47.229] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.171026
+Mean Rank: 714.178906
+Hits@1: 0.109401
+Hits@10: 0.296052
+=================================
+[2022-08-27 18:49:47.344] [test] [info] delta: 2469191.5
+[2022-08-27 18:49:47.442] [test] [info] t:4, training size: 89798, total size: 204086
+[2022-08-27 18:51:31.538] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.170543
+Mean Rank: 684.162513
+Hits@1: 0.108766
+Hits@10: 0.292778
+=================================
+[2022-08-27 18:51:31.663] [test] [info] delta: 1805575.125
+[2022-08-27 18:51:31.777] [test] [info] t:5, training size: 95240, total size: 217692
+[2022-08-27 18:53:22.781] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.174377
+Mean Rank: 654.443052
+Hits@1: 0.113188
+Hits@10: 0.296980
+=================================
+[2022-08-27 18:53:22.913] [test] [info] delta: 1584646.625
+[2022-08-27 18:53:23.025] [test] [info] t:6, training size: 100681, total size: 231297
+[2022-08-27 18:55:18.365] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.172071
+Mean Rank: 633.610965
+Hits@1: 0.108155
+Hits@10: 0.301085
+=================================
+[2022-08-27 18:55:18.506] [test] [info] delta: 1456374.5
+[2022-08-27 18:55:18.637] [test] [info] t:7, training size: 106124, total size: 244903
+[2022-08-27 18:57:21.076] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.177788
+Mean Rank: 600.113285
+Hits@1: 0.113774
+Hits@10: 0.306875
+=================================
+[2022-08-27 18:57:21.226] [test] [info] delta: 1394480.5
+[2022-08-27 18:57:21.358] [test] [info] t:8, training size: 111567, total size: 258509
+[2022-08-27 18:59:28.188] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.176218
+Mean Rank: 574.901593
+Hits@1: 0.110354
+Hits@10: 0.307021
+=================================
+[2022-08-27 18:59:28.344] [test] [info] delta: 1387933.5
+[2022-08-27 18:59:28.478] [test] [info] t:9, training size: 117009, total size: 272115
+[2022-08-27 19:01:42.682] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.180932
+Mean Rank: 545.255448
+Hits@1: 0.115509
+Hits@10: 0.312103
+=================================
+[2022-08-27 19:01:42.683] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.5, lr: 0.01, ewc_lambda: 0.1, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-27 19:01:43.182] [test] [info] 14541, 237
+[2022-08-27 19:01:43.238] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-27 19:04:13.187] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.185019
+Mean Rank: 666.115704
+Hits@1: 0.116681
+Hits@10: 0.325809
+=================================
+[2022-08-27 19:04:13.273] [test] [info] delta: 15874060.0
+[2022-08-27 19:04:13.343] [test] [info] t:2, training size: 95240, total size: 163269
+[2022-08-27 19:06:03.497] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.169426
+Mean Rank: 737.386250
+Hits@1: 0.105614
+Hits@10: 0.297884
+=================================
+[2022-08-27 19:06:03.597] [test] [info] delta: 4988045.5
+[2022-08-27 19:06:03.680] [test] [info] t:3, training size: 108845, total size: 190480
+[2022-08-27 19:08:08.556] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.173564
+Mean Rank: 687.310051
+Hits@1: 0.109279
+Hits@10: 0.302111
+=================================
+[2022-08-27 19:08:08.672] [test] [info] delta: 4035786.0
+[2022-08-27 19:08:08.770] [test] [info] t:4, training size: 108846, total size: 204086
+[2022-08-27 19:10:13.392] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.175554
+Mean Rank: 673.081965
+Hits@1: 0.110720
+Hits@10: 0.306631
+=================================
+[2022-08-27 19:10:13.515] [test] [info] delta: 3127203.5
+[2022-08-27 19:10:13.623] [test] [info] t:5, training size: 115649, total size: 217692
+[2022-08-27 19:12:25.669] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.178569
+Mean Rank: 641.374939
+Hits@1: 0.112919
+Hits@10: 0.310368
+=================================
+[2022-08-27 19:12:25.801] [test] [info] delta: 2706545.75
+[2022-08-27 19:12:25.920] [test] [info] t:6, training size: 122451, total size: 231297
+[2022-08-27 19:14:46.077] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.179325
+Mean Rank: 613.243526
+Hits@1: 0.113774
+Hits@10: 0.311199
+=================================
+[2022-08-27 19:14:46.217] [test] [info] delta: 2370195.0
+[2022-08-27 19:14:46.342] [test] [info] t:7, training size: 129254, total size: 244903
+[2022-08-27 19:17:13.392] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.181438
+Mean Rank: 589.895534
+Hits@1: 0.115362
+Hits@10: 0.315670
+=================================
+[2022-08-27 19:17:13.543] [test] [info] delta: 2161599.0
+[2022-08-27 19:17:13.680] [test] [info] t:8, training size: 136057, total size: 258509
+[2022-08-27 19:19:49.070] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.180972
+Mean Rank: 548.592470
+Hits@1: 0.114629
+Hits@10: 0.315352
+=================================
+[2022-08-27 19:19:49.227] [test] [info] delta: 2110406.75
+[2022-08-27 19:19:49.371] [test] [info] t:9, training size: 142860, total size: 272115
+[2022-08-27 19:22:31.662] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.183941
+Mean Rank: 517.516931
+Hits@1: 0.116535
+Hits@10: 0.316989
+=================================
+[2022-08-27 19:22:31.663] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.6, lr: 0.01, ewc_lambda: 0.1, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-27 19:22:32.174] [test] [info] 14541, 237
+[2022-08-27 19:22:32.233] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-27 19:25:01.485] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.187728
+Mean Rank: 631.262142
+Hits@1: 0.117976
+Hits@10: 0.331770
+=================================
+[2022-08-27 19:25:01.569] [test] [info] delta: 18526924.0
+[2022-08-27 19:25:01.645] [test] [info] t:2, training size: 108846, total size: 163269
+[2022-08-27 19:27:07.475] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.176625
+Mean Rank: 674.749756
+Hits@1: 0.110305
+Hits@10: 0.310564
+=================================
+[2022-08-27 19:27:07.575] [test] [info] delta: 7699926.0
+[2022-08-27 19:27:07.670] [test] [info] t:3, training size: 125172, total size: 190480
+[2022-08-27 19:29:30.008] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.182661
+Mean Rank: 621.830744
+Hits@1: 0.114678
+Hits@10: 0.320263
+=================================
+[2022-08-27 19:29:30.124] [test] [info] delta: 5936833.0
+[2022-08-27 19:29:30.227] [test] [info] t:4, training size: 127894, total size: 204086
+[2022-08-27 19:31:56.732] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.181175
+Mean Rank: 614.501246
+Hits@1: 0.113359
+Hits@10: 0.321167
+=================================
+[2022-08-27 19:31:56.856] [test] [info] delta: 4452867.0
+[2022-08-27 19:31:56.968] [test] [info] t:5, training size: 136057, total size: 217692
+[2022-08-27 19:34:31.752] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.185492
+Mean Rank: 592.754544
+Hits@1: 0.117634
+Hits@10: 0.323781
+=================================
+[2022-08-27 19:34:31.884] [test] [info] delta: 3834261.0
+[2022-08-27 19:34:31.999] [test] [info] t:6, training size: 144220, total size: 231297
+[2022-08-27 19:37:15.505] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.184674
+Mean Rank: 555.361307
+Hits@1: 0.117414
+Hits@10: 0.321411
+=================================
+[2022-08-27 19:37:15.647] [test] [info] delta: 3196047.0
+[2022-08-27 19:37:15.770] [test] [info] t:7, training size: 152384, total size: 244903
+[2022-08-27 19:40:08.527] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.188659
+Mean Rank: 531.888132
+Hits@1: 0.120395
+Hits@10: 0.328276
+=================================
+[2022-08-27 19:40:08.675] [test] [info] delta: 2787460.0
+[2022-08-27 19:40:08.805] [test] [info] t:8, training size: 160547, total size: 258509
+[2022-08-27 19:43:10.792] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.185582
+Mean Rank: 505.525042
+Hits@1: 0.116071
+Hits@10: 0.326273
+=================================
+[2022-08-27 19:43:10.950] [test] [info] delta: 2518732.5
+[2022-08-27 19:43:11.088] [test] [info] t:9, training size: 168711, total size: 272115
+[2022-08-27 19:46:21.692] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186549
+Mean Rank: 472.121348
+Hits@1: 0.117048
+Hits@10: 0.327323
+=================================
+[2022-08-27 19:46:21.692] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.7, lr: 0.01, ewc_lambda: 0.1, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-27 19:46:22.323] [test] [info] 14541, 237
+[2022-08-27 19:46:22.386] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-27 19:48:54.604] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186151
+Mean Rank: 684.757158
+Hits@1: 0.116388
+Hits@10: 0.328838
+=================================
+[2022-08-27 19:48:54.690] [test] [info] delta: 17215450.0
+[2022-08-27 19:48:54.763] [test] [info] t:2, training size: 122451, total size: 163269
+[2022-08-27 19:51:15.102] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.177673
+Mean Rank: 703.010554
+Hits@1: 0.111697
+Hits@10: 0.311688
+=================================
+[2022-08-27 19:51:15.203] [test] [info] delta: 6358781.5
+[2022-08-27 19:51:15.296] [test] [info] t:3, training size: 141499, total size: 190480
+[2022-08-27 19:53:55.933] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.184690
+Mean Rank: 636.842666
+Hits@1: 0.116168
+Hits@10: 0.324783
+=================================
+[2022-08-27 19:53:56.049] [test] [info] delta: 4610373.0
+[2022-08-27 19:53:56.153] [test] [info] t:4, training size: 146942, total size: 204086
+[2022-08-27 19:56:41.867] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.183839
+Mean Rank: 622.919745
+Hits@1: 0.116168
+Hits@10: 0.321607
+=================================
+[2022-08-27 19:56:41.995] [test] [info] delta: 3475031.0
+[2022-08-27 19:56:42.139] [test] [info] t:5, training size: 156466, total size: 217692
+[2022-08-27 19:59:38.241] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.183488
+Mean Rank: 588.747899
+Hits@1: 0.115680
+Hits@10: 0.323341
+=================================
+[2022-08-27 19:59:38.381] [test] [info] delta: 2760597.5
+[2022-08-27 19:59:38.505] [test] [info] t:6, training size: 165989, total size: 231297
+[2022-08-27 20:02:47.333] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.187057
+Mean Rank: 549.870248
+Hits@1: 0.119320
+Hits@10: 0.325809
+=================================
+[2022-08-27 20:02:47.477] [test] [info] delta: 2304422.0
+[2022-08-27 20:02:47.604] [test] [info] t:7, training size: 175513, total size: 244903
+[2022-08-27 20:06:05.988] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.182550
+Mean Rank: 519.084701
+Hits@1: 0.113456
+Hits@10: 0.325149
+=================================
+[2022-08-27 20:06:06.140] [test] [info] delta: 2148283.0
+[2022-08-27 20:06:06.283] [test] [info] t:8, training size: 185038, total size: 258509
+[2022-08-27 20:09:37.177] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.187404
+Mean Rank: 488.028511
+Hits@1: 0.116559
+Hits@10: 0.330133
+=================================
+[2022-08-27 20:09:37.336] [test] [info] delta: 1877562.5
+[2022-08-27 20:09:37.481] [test] [info] t:9, training size: 194562, total size: 272115
+[2022-08-27 20:13:19.945] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186834
+Mean Rank: 455.188581
+Hits@1: 0.117463
+Hits@10: 0.327763
+=================================
+[2022-08-27 20:13:19.946] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.8, lr: 0.01, ewc_lambda: 0.1, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-27 20:13:20.450] [test] [info] 14541, 237
+[2022-08-27 20:13:20.513] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-27 20:15:50.751] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.187234
+Mean Rank: 707.164028
+Hits@1: 0.117561
+Hits@10: 0.329766
+=================================
+[2022-08-27 20:15:50.834] [test] [info] delta: 18704690.0
+[2022-08-27 20:15:50.905] [test] [info] t:2, training size: 136057, total size: 163269
+[2022-08-27 20:18:25.895] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.181213
+Mean Rank: 675.732141
+Hits@1: 0.112992
+Hits@10: 0.317404
+=================================
+[2022-08-27 20:18:25.999] [test] [info] delta: 9231426.0
+[2022-08-27 20:18:26.086] [test] [info] t:3, training size: 157826, total size: 190480
+[2022-08-27 20:21:26.270] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.183155
+Mean Rank: 640.244356
+Hits@1: 0.114067
+Hits@10: 0.323170
+=================================
+[2022-08-27 20:21:26.385] [test] [info] delta: 6805182.5
+[2022-08-27 20:21:26.492] [test] [info] t:4, training size: 165990, total size: 204086
+[2022-08-27 20:24:35.265] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.182947
+Mean Rank: 626.179542
+Hits@1: 0.115435
+Hits@10: 0.319359
+=================================
+[2022-08-27 20:24:35.389] [test] [info] delta: 4971422.5
+[2022-08-27 20:24:35.511] [test] [info] t:5, training size: 176874, total size: 217692
+[2022-08-27 20:27:55.150] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.185699
+Mean Rank: 605.128799
+Hits@1: 0.117952
+Hits@10: 0.325735
+=================================
+[2022-08-27 20:27:55.281] [test] [info] delta: 3758750.75
+[2022-08-27 20:27:55.399] [test] [info] t:6, training size: 187758, total size: 231297
+[2022-08-27 20:31:28.615] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186530
+Mean Rank: 575.234340
+Hits@1: 0.118734
+Hits@10: 0.323854
+=================================
+[2022-08-27 20:31:28.755] [test] [info] delta: 3043346.5
+[2022-08-27 20:31:28.882] [test] [info] t:7, training size: 198643, total size: 244903
+[2022-08-27 20:35:14.826] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186013
+Mean Rank: 551.262215
+Hits@1: 0.118172
+Hits@10: 0.322877
+=================================
+[2022-08-27 20:35:14.978] [test] [info] delta: 2481092.25
+[2022-08-27 20:35:15.115] [test] [info] t:8, training size: 209528, total size: 258509
+[2022-08-27 20:39:12.797] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186812
+Mean Rank: 530.189143
+Hits@1: 0.117952
+Hits@10: 0.326737
+=================================
+[2022-08-27 20:39:12.953] [test] [info] delta: 2217437.5
+[2022-08-27 20:39:13.093] [test] [info] t:9, training size: 220413, total size: 272115
+[2022-08-27 20:43:25.186] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.187927
+Mean Rank: 509.376014
+Hits@1: 0.118123
+Hits@10: 0.329498
+=================================
+[2022-08-27 20:43:25.187] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.9, lr: 0.01, ewc_lambda: 0.1, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-27 20:43:25.689] [test] [info] 14541, 237
+[2022-08-27 20:43:25.749] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-27 20:45:56.189] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.192135
+Mean Rank: 685.197156
+Hits@1: 0.122618
+Hits@10: 0.333113
+=================================
+[2022-08-27 20:45:56.281] [test] [info] delta: 16931404.0
+[2022-08-27 20:45:56.351] [test] [info] t:2, training size: 149663, total size: 163269
+[2022-08-27 20:48:46.985] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186731
+Mean Rank: 668.495163
+Hits@1: 0.118782
+Hits@10: 0.323439
+=================================
+[2022-08-27 20:48:47.085] [test] [info] delta: 8637164.0
+[2022-08-27 20:48:47.170] [test] [info] t:3, training size: 174153, total size: 190480
+[2022-08-27 20:52:05.697] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186237
+Mean Rank: 641.211570
+Hits@1: 0.118660
+Hits@10: 0.325491
+=================================
+[2022-08-27 20:52:05.813] [test] [info] delta: 5595003.5
+[2022-08-27 20:52:05.913] [test] [info] t:4, training size: 185038, total size: 204086
+[2022-08-27 20:55:37.973] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.183754
+Mean Rank: 612.528633
+Hits@1: 0.115338
+Hits@10: 0.322584
+=================================
+[2022-08-27 20:55:38.098] [test] [info] delta: 3911943.5
+[2022-08-27 20:55:38.206] [test] [info] t:5, training size: 197283, total size: 217692
+[2022-08-27 20:59:21.425] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.185728
+Mean Rank: 566.291410
+Hits@1: 0.116950
+Hits@10: 0.325076
+=================================
+[2022-08-27 20:59:21.557] [test] [info] delta: 3093265.0
+[2022-08-27 20:59:21.678] [test] [info] t:6, training size: 209527, total size: 231297
+[2022-08-27 21:03:19.701] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.188509
+Mean Rank: 529.554578
+Hits@1: 0.119784
+Hits@10: 0.329693
+=================================
+[2022-08-27 21:03:19.842] [test] [info] delta: 2519535.25
+[2022-08-27 21:03:19.977] [test] [info] t:7, training size: 221773, total size: 244903
+[2022-08-27 21:07:30.987] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.187300
+Mean Rank: 500.209860
+Hits@1: 0.118734
+Hits@10: 0.327446
+=================================
+[2022-08-27 21:07:31.136] [test] [info] delta: 2235135.5
+[2022-08-27 21:07:31.271] [test] [info] t:8, training size: 234018, total size: 258509
+[2022-08-27 21:11:58.438] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.190123
+Mean Rank: 474.945202
+Hits@1: 0.119686
+Hits@10: 0.335434
+=================================
+[2022-08-27 21:11:58.595] [test] [info] delta: 1945827.75
+[2022-08-27 21:11:58.736] [test] [info] t:9, training size: 246264, total size: 272115
+[2022-08-27 21:16:39.964] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.190209
+Mean Rank: 463.726717
+Hits@1: 0.119198
+Hits@10: 0.336460
+=================================
+[2022-08-27 21:16:39.964] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 1.0, lr: 0.01, ewc_lambda: 0.1, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-27 21:16:40.457] [test] [info] 14541, 237
+[2022-08-27 21:16:40.518] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-27 21:19:13.391] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186390
+Mean Rank: 648.478110
+Hits@1: 0.117488
+Hits@10: 0.329229
+=================================
+[2022-08-27 21:19:13.475] [test] [info] delta: 16216418.0
+[2022-08-27 21:19:13.550] [test] [info] t:2, training size: 163269, total size: 163269
+[2022-08-27 21:22:19.908] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.183775
+Mean Rank: 596.881877
+Hits@1: 0.114580
+Hits@10: 0.326737
+=================================
+[2022-08-27 21:22:20.010] [test] [info] delta: 8042562.0
+[2022-08-27 21:22:20.101] [test] [info] t:3, training size: 190480, total size: 190480
+[2022-08-27 21:25:55.965] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.188092
+Mean Rank: 567.702604
+Hits@1: 0.118196
+Hits@10: 0.330793
+=================================
+[2022-08-27 21:25:56.082] [test] [info] delta: 5059777.5
+[2022-08-27 21:25:56.188] [test] [info] t:4, training size: 204086, total size: 204086
+[2022-08-27 21:29:47.637] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.187366
+Mean Rank: 556.650494
+Hits@1: 0.119149
+Hits@10: 0.329742
+=================================
+[2022-08-27 21:29:47.765] [test] [info] delta: 3247033.5
+[2022-08-27 21:29:47.879] [test] [info] t:5, training size: 217692, total size: 217692
+[2022-08-27 21:33:56.672] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.185851
+Mean Rank: 535.210618
+Hits@1: 0.117659
+Hits@10: 0.324758
+=================================
+[2022-08-27 21:33:56.803] [test] [info] delta: 2364922.0
+[2022-08-27 21:33:56.927] [test] [info] t:6, training size: 231297, total size: 231297
+[2022-08-27 21:38:21.409] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186169
+Mean Rank: 511.545343
+Hits@1: 0.117097
+Hits@10: 0.326932
+=================================
+[2022-08-27 21:38:21.549] [test] [info] delta: 1915310.25
+[2022-08-27 21:38:21.678] [test] [info] t:7, training size: 244903, total size: 244903
+[2022-08-27 21:43:04.346] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.190661
+Mean Rank: 489.134442
+Hits@1: 0.119784
+Hits@10: 0.334384
+=================================
+[2022-08-27 21:43:04.502] [test] [info] delta: 1578122.875
+[2022-08-27 21:43:04.640] [test] [info] t:8, training size: 258509, total size: 258509
+[2022-08-27 21:48:03.438] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.190390
+Mean Rank: 471.105297
+Hits@1: 0.119271
+Hits@10: 0.335263
+=================================
+[2022-08-27 21:48:03.604] [test] [info] delta: 1329074.5
+[2022-08-27 21:48:03.751] [test] [info] t:9, training size: 272115, total size: 272115
+[2022-08-27 21:53:16.121] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.192656
+Mean Rank: 454.292656
+Hits@1: 0.121054
+Hits@10: 0.339734
+=================================
+[2022-08-27 21:53:16.121] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.0, lr: 0.01, ewc_lambda: 1.0, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-27 21:53:16.623] [test] [info] 14541, 237
+[2022-08-27 21:53:16.689] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-27 21:55:46.989] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186914
+Mean Rank: 691.423043
+Hits@1: 0.117878
+Hits@10: 0.329693
+=================================
+[2022-08-27 21:55:47.073] [test] [info] delta: 16803528.0
+[2022-08-27 21:55:47.142] [test] [info] t:2, training size: 27212, total size: 163269
+[2022-08-27 21:56:23.420] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.153385
+Mean Rank: 996.773087
+Hits@1: 0.096159
+Hits@10: 0.267688
+=================================
+[2022-08-27 21:56:23.521] [test] [info] delta: 1090314.75
+[2022-08-27 21:56:23.603] [test] [info] t:3, training size: 27211, total size: 190480
+[2022-08-27 21:56:59.765] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.152832
+Mean Rank: 943.407578
+Hits@1: 0.096013
+Hits@10: 0.265953
+=================================
+[2022-08-27 21:56:59.883] [test] [info] delta: 1034873.125
+[2022-08-27 21:56:59.979] [test] [info] t:4, training size: 13606, total size: 204086
+[2022-08-27 21:57:23.234] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.144372
+Mean Rank: 1038.830597
+Hits@1: 0.090565
+Hits@10: 0.249756
+=================================
+[2022-08-27 21:57:23.357] [test] [info] delta: 376280.8125
+[2022-08-27 21:57:23.460] [test] [info] t:5, training size: 13606, total size: 217692
+[2022-08-27 21:57:45.802] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.136436
+Mean Rank: 1041.339636
+Hits@1: 0.083480
+Hits@10: 0.238786
+=================================
+[2022-08-27 21:57:45.942] [test] [info] delta: 388055.375
+[2022-08-27 21:57:46.086] [test] [info] t:6, training size: 13605, total size: 231297
+[2022-08-27 21:58:08.861] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.141245
+Mean Rank: 1048.228305
+Hits@1: 0.088171
+Hits@10: 0.244014
+=================================
+[2022-08-27 21:58:09.001] [test] [info] delta: 399014.5
+[2022-08-27 21:58:09.118] [test] [info] t:7, training size: 13606, total size: 244903
+[2022-08-27 21:58:31.495] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.139754
+Mean Rank: 1012.366779
+Hits@1: 0.086998
+Hits@10: 0.242231
+=================================
+[2022-08-27 21:58:31.645] [test] [info] delta: 374391.71875
+[2022-08-27 21:58:31.771] [test] [info] t:8, training size: 13606, total size: 258509
+[2022-08-27 21:58:54.015] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.143848
+Mean Rank: 994.293804
+Hits@1: 0.093008
+Hits@10: 0.244014
+=================================
+[2022-08-27 21:58:54.172] [test] [info] delta: 362041.90625
+[2022-08-27 21:58:54.307] [test] [info] t:9, training size: 13606, total size: 272115
+[2022-08-27 21:59:17.994] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.144794
+Mean Rank: 967.030465
+Hits@1: 0.092788
+Hits@10: 0.245529
+=================================
+[2022-08-27 21:59:17.994] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.1, lr: 0.01, ewc_lambda: 1.0, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-27 21:59:18.476] [test] [info] 14541, 237
+[2022-08-27 21:59:18.537] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-27 22:01:49.596] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186013
+Mean Rank: 663.153059
+Hits@1: 0.116828
+Hits@10: 0.327201
+=================================
+[2022-08-27 22:01:49.680] [test] [info] delta: 18357628.0
+[2022-08-27 22:01:49.755] [test] [info] t:2, training size: 40817, total size: 163269
+[2022-08-27 22:02:40.702] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.156979
+Mean Rank: 851.009650
+Hits@1: 0.099067
+Hits@10: 0.275261
+=================================
+[2022-08-27 22:02:40.811] [test] [info] delta: 1994615.375
+[2022-08-27 22:02:40.895] [test] [info] t:3, training size: 43537, total size: 190480
+[2022-08-27 22:03:35.478] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.161050
+Mean Rank: 787.606933
+Hits@1: 0.100801
+Hits@10: 0.281491
+=================================
+[2022-08-27 22:03:35.596] [test] [info] delta: 1799301.375
+[2022-08-27 22:03:35.696] [test] [info] t:4, training size: 32654, total size: 204086
+[2022-08-27 22:04:17.787] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.154920
+Mean Rank: 787.282078
+Hits@1: 0.097015
+Hits@10: 0.271157
+=================================
+[2022-08-27 22:04:17.912] [test] [info] delta: 1038025.375
+[2022-08-27 22:04:18.020] [test] [info] t:5, training size: 34014, total size: 217692
+[2022-08-27 22:05:03.459] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.155335
+Mean Rank: 760.860451
+Hits@1: 0.097454
+Hits@10: 0.269520
+=================================
+[2022-08-27 22:05:03.598] [test] [info] delta: 1020253.25
+[2022-08-27 22:05:03.714] [test] [info] t:6, training size: 35374, total size: 231297
+[2022-08-27 22:05:49.872] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.155487
+Mean Rank: 739.145461
+Hits@1: 0.096453
+Hits@10: 0.271695
+=================================
+[2022-08-27 22:05:50.018] [test] [info] delta: 967914.375
+[2022-08-27 22:05:50.137] [test] [info] t:7, training size: 36735, total size: 244903
+[2022-08-27 22:06:37.290] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.154779
+Mean Rank: 702.092519
+Hits@1: 0.095695
+Hits@10: 0.274015
+=================================
+[2022-08-27 22:06:37.439] [test] [info] delta: 917626.875
+[2022-08-27 22:06:37.565] [test] [info] t:8, training size: 38096, total size: 258509
+[2022-08-27 22:07:25.189] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.162228
+Mean Rank: 667.856762
+Hits@1: 0.103000
+Hits@10: 0.279341
+=================================
+[2022-08-27 22:07:25.347] [test] [info] delta: 911499.1875
+[2022-08-27 22:07:25.480] [test] [info] t:9, training size: 39456, total size: 272115
+[2022-08-27 22:08:15.471] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.161995
+Mean Rank: 629.559953
+Hits@1: 0.102096
+Hits@10: 0.280929
+=================================
+[2022-08-27 22:08:15.471] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.2, lr: 0.01, ewc_lambda: 1.0, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-27 22:08:15.956] [test] [info] 14541, 237
+[2022-08-27 22:08:16.012] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-27 22:10:48.104] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186061
+Mean Rank: 694.612357
+Hits@1: 0.117292
+Hits@10: 0.326419
+=================================
+[2022-08-27 22:10:48.187] [test] [info] delta: 17177424.0
+[2022-08-27 22:10:48.256] [test] [info] t:2, training size: 54423, total size: 163269
+[2022-08-27 22:11:53.891] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.160318
+Mean Rank: 779.671431
+Hits@1: 0.100875
+Hits@10: 0.279683
+=================================
+[2022-08-27 22:11:53.991] [test] [info] delta: 2521529.5
+[2022-08-27 22:11:54.080] [test] [info] t:3, training size: 59864, total size: 190480
+[2022-08-27 22:13:06.480] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.168223
+Mean Rank: 702.933622
+Hits@1: 0.107275
+Hits@10: 0.289920
+=================================
+[2022-08-27 22:13:06.604] [test] [info] delta: 1962395.0
+[2022-08-27 22:13:06.704] [test] [info] t:4, training size: 51702, total size: 204086
+[2022-08-27 22:14:08.895] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.163865
+Mean Rank: 685.498998
+Hits@1: 0.102682
+Hits@10: 0.286768
+=================================
+[2022-08-27 22:14:09.020] [test] [info] delta: 1348366.875
+[2022-08-27 22:14:09.126] [test] [info] t:5, training size: 54423, total size: 217692
+[2022-08-27 22:15:15.256] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.165914
+Mean Rank: 648.838097
+Hits@1: 0.103855
+Hits@10: 0.290995
+=================================
+[2022-08-27 22:15:15.405] [test] [info] delta: 1236105.0
+[2022-08-27 22:15:15.531] [test] [info] t:6, training size: 57143, total size: 231297
+[2022-08-27 22:16:23.616] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.168169
+Mean Rank: 613.771059
+Hits@1: 0.106567
+Hits@10: 0.292216
+=================================
+[2022-08-27 22:16:23.756] [test] [info] delta: 1186182.125
+[2022-08-27 22:16:23.880] [test] [info] t:7, training size: 59865, total size: 244903
+[2022-08-27 22:17:35.471] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.170375
+Mean Rank: 576.379898
+Hits@1: 0.107056
+Hits@10: 0.296345
+=================================
+[2022-08-27 22:17:35.619] [test] [info] delta: 1143135.25
+[2022-08-27 22:17:35.749] [test] [info] t:8, training size: 62586, total size: 258509
+[2022-08-27 22:18:49.730] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.172123
+Mean Rank: 551.942588
+Hits@1: 0.109328
+Hits@10: 0.298373
+=================================
+[2022-08-27 22:18:49.888] [test] [info] delta: 1123036.75
+[2022-08-27 22:18:50.024] [test] [info] t:9, training size: 65307, total size: 272115
+[2022-08-27 22:20:08.682] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.172434
+Mean Rank: 526.213891
+Hits@1: 0.108399
+Hits@10: 0.301231
+=================================
+[2022-08-27 22:20:08.683] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.3, lr: 0.01, ewc_lambda: 1.0, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-27 22:20:09.165] [test] [info] 14541, 237
+[2022-08-27 22:20:09.223] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-27 22:22:39.931] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.185890
+Mean Rank: 668.453142
+Hits@1: 0.116657
+Hits@10: 0.327299
+=================================
+[2022-08-27 22:22:40.015] [test] [info] delta: 17374254.0
+[2022-08-27 22:22:40.083] [test] [info] t:2, training size: 68029, total size: 163269
+[2022-08-27 22:24:01.495] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.165786
+Mean Rank: 736.587682
+Hits@1: 0.102780
+Hits@10: 0.291777
+=================================
+[2022-08-27 22:24:01.594] [test] [info] delta: 3314657.0
+[2022-08-27 22:24:01.676] [test] [info] t:3, training size: 76191, total size: 190480
+[2022-08-27 22:25:34.280] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.173481
+Mean Rank: 668.640233
+Hits@1: 0.109108
+Hits@10: 0.302086
+=================================
+[2022-08-27 22:25:34.403] [test] [info] delta: 2604350.0
+[2022-08-27 22:25:34.503] [test] [info] t:4, training size: 70750, total size: 204086
+[2022-08-27 22:26:58.279] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.169515
+Mean Rank: 655.972540
+Hits@1: 0.105736
+Hits@10: 0.295905
+=================================
+[2022-08-27 22:26:58.402] [test] [info] delta: 1875907.0
+[2022-08-27 22:26:58.507] [test] [info] t:5, training size: 74831, total size: 217692
+[2022-08-27 22:28:27.215] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.169525
+Mean Rank: 623.805409
+Hits@1: 0.106201
+Hits@10: 0.295783
+=================================
+[2022-08-27 22:28:27.347] [test] [info] delta: 1714997.5
+[2022-08-27 22:28:27.464] [test] [info] t:6, training size: 78912, total size: 231297
+[2022-08-27 22:29:59.788] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.171397
+Mean Rank: 586.141356
+Hits@1: 0.107398
+Hits@10: 0.300498
+=================================
+[2022-08-27 22:29:59.931] [test] [info] delta: 1578020.25
+[2022-08-27 22:30:00.049] [test] [info] t:7, training size: 82995, total size: 244903
+[2022-08-27 22:31:38.007] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.173510
+Mean Rank: 554.990374
+Hits@1: 0.108815
+Hits@10: 0.304285
+=================================
+[2022-08-27 22:31:38.163] [test] [info] delta: 1480012.0
+[2022-08-27 22:31:38.292] [test] [info] t:8, training size: 87076, total size: 258509
+[2022-08-27 22:33:21.745] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.174481
+Mean Rank: 524.699721
+Hits@1: 0.109816
+Hits@10: 0.306020
+=================================
+[2022-08-27 22:33:21.908] [test] [info] delta: 1409943.875
+[2022-08-27 22:33:22.044] [test] [info] t:9, training size: 91158, total size: 272115
+[2022-08-27 22:35:08.278] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.177948
+Mean Rank: 495.545490
+Hits@1: 0.111526
+Hits@10: 0.311590
+=================================
+[2022-08-27 22:35:08.278] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.4, lr: 0.01, ewc_lambda: 1.0, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-27 22:35:08.775] [test] [info] 14541, 237
+[2022-08-27 22:35:08.833] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-27 22:37:42.156] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.194191
+Mean Rank: 647.582918
+Hits@1: 0.123278
+Hits@10: 0.337731
+=================================
+[2022-08-27 22:37:42.242] [test] [info] delta: 16110420.0
+[2022-08-27 22:37:42.314] [test] [info] t:2, training size: 81634, total size: 163269
+[2022-08-27 22:39:17.294] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.173236
+Mean Rank: 696.523160
+Hits@1: 0.107886
+Hits@10: 0.305604
+=================================
+[2022-08-27 22:39:17.395] [test] [info] delta: 4652989.5
+[2022-08-27 22:39:17.488] [test] [info] t:3, training size: 92518, total size: 190480
+[2022-08-27 22:41:05.328] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.180693
+Mean Rank: 640.560026
+Hits@1: 0.113847
+Hits@10: 0.315816
+=================================
+[2022-08-27 22:41:05.476] [test] [info] delta: 3453511.0
+[2022-08-27 22:41:05.614] [test] [info] t:4, training size: 89798, total size: 204086
+[2022-08-27 22:42:51.452] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.178383
+Mean Rank: 622.665079
+Hits@1: 0.112162
+Hits@10: 0.311810
+=================================
+[2022-08-27 22:42:51.576] [test] [info] delta: 2446577.0
+[2022-08-27 22:42:51.682] [test] [info] t:5, training size: 95240, total size: 217692
+[2022-08-27 22:44:41.937] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.177151
+Mean Rank: 608.642480
+Hits@1: 0.111697
+Hits@10: 0.309880
+=================================
+[2022-08-27 22:44:42.072] [test] [info] delta: 2103723.5
+[2022-08-27 22:44:42.189] [test] [info] t:6, training size: 100681, total size: 231297
+[2022-08-27 22:46:39.681] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.181037
+Mean Rank: 576.187457
+Hits@1: 0.114409
+Hits@10: 0.314961
+=================================
+[2022-08-27 22:46:39.829] [test] [info] delta: 1804369.375
+[2022-08-27 22:46:39.955] [test] [info] t:7, training size: 106124, total size: 244903
+[2022-08-27 22:48:41.912] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.181052
+Mean Rank: 547.159435
+Hits@1: 0.113970
+Hits@10: 0.315303
+=================================
+[2022-08-27 22:48:42.061] [test] [info] delta: 1718658.0
+[2022-08-27 22:48:42.194] [test] [info] t:8, training size: 111567, total size: 258509
+[2022-08-27 22:50:49.318] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.185726
+Mean Rank: 515.381389
+Hits@1: 0.119051
+Hits@10: 0.321729
+=================================
+[2022-08-27 22:50:49.477] [test] [info] delta: 1617021.25
+[2022-08-27 22:50:49.621] [test] [info] t:9, training size: 117009, total size: 272115
+[2022-08-27 22:53:03.179] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.185906
+Mean Rank: 486.450161
+Hits@1: 0.118856
+Hits@10: 0.323146
+=================================
+[2022-08-27 22:53:03.179] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.5, lr: 0.01, ewc_lambda: 1.0, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-27 22:53:03.673] [test] [info] 14541, 237
+[2022-08-27 22:53:03.732] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-27 22:55:33.525] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.189466
+Mean Rank: 659.171235
+Hits@1: 0.118587
+Hits@10: 0.335190
+=================================
+[2022-08-27 22:55:33.609] [test] [info] delta: 18124226.0
+[2022-08-27 22:55:33.679] [test] [info] t:2, training size: 95240, total size: 163269
+[2022-08-27 22:57:23.241] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.173502
+Mean Rank: 708.672188
+Hits@1: 0.109279
+Hits@10: 0.303161
+=================================
+[2022-08-27 22:57:23.340] [test] [info] delta: 5582812.5
+[2022-08-27 22:57:23.423] [test] [info] t:3, training size: 108845, total size: 190480
+[2022-08-27 22:59:28.173] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.180188
+Mean Rank: 656.353342
+Hits@1: 0.113383
+Hits@10: 0.314522
+=================================
+[2022-08-27 22:59:28.288] [test] [info] delta: 3784903.0
+[2022-08-27 22:59:28.385] [test] [info] t:4, training size: 108846, total size: 204086
+[2022-08-27 23:01:34.341] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.180207
+Mean Rank: 631.991474
+Hits@1: 0.113310
+Hits@10: 0.314424
+=================================
+[2022-08-27 23:01:34.465] [test] [info] delta: 2503750.5
+[2022-08-27 23:01:34.570] [test] [info] t:5, training size: 115649, total size: 217692
+[2022-08-27 23:03:48.320] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.180880
+Mean Rank: 597.636715
+Hits@1: 0.113847
+Hits@10: 0.315963
+=================================
+[2022-08-27 23:03:48.455] [test] [info] delta: 2067392.625
+[2022-08-27 23:03:48.568] [test] [info] t:6, training size: 122451, total size: 231297
+[2022-08-27 23:06:09.189] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.182527
+Mean Rank: 565.074807
+Hits@1: 0.114971
+Hits@10: 0.317502
+=================================
+[2022-08-27 23:06:09.337] [test] [info] delta: 1826662.25
+[2022-08-27 23:06:09.461] [test] [info] t:7, training size: 129254, total size: 244903
+[2022-08-27 23:08:37.606] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186101
+Mean Rank: 539.735293
+Hits@1: 0.119100
+Hits@10: 0.321509
+=================================
+[2022-08-27 23:08:37.754] [test] [info] delta: 1651652.0
+[2022-08-27 23:08:37.881] [test] [info] t:8, training size: 136057, total size: 258509
+[2022-08-27 23:11:12.353] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186418
+Mean Rank: 511.917888
+Hits@1: 0.118196
+Hits@10: 0.325442
+=================================
+[2022-08-27 23:11:12.521] [test] [info] delta: 1551543.125
+[2022-08-27 23:11:12.656] [test] [info] t:9, training size: 142860, total size: 272115
+[2022-08-27 23:13:53.917] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.188713
+Mean Rank: 483.950796
+Hits@1: 0.120468
+Hits@10: 0.327885
+=================================
+[2022-08-27 23:13:53.917] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.6, lr: 0.01, ewc_lambda: 1.0, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-27 23:13:54.414] [test] [info] 14541, 237
+[2022-08-27 23:13:54.472] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-27 23:16:23.915] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.190655
+Mean Rank: 647.681203
+Hits@1: 0.118905
+Hits@10: 0.336631
+=================================
+[2022-08-27 23:16:24.000] [test] [info] delta: 17249432.0
+[2022-08-27 23:16:24.073] [test] [info] t:2, training size: 108846, total size: 163269
+[2022-08-27 23:18:28.489] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.178689
+Mean Rank: 662.027704
+Hits@1: 0.112162
+Hits@10: 0.316525
+=================================
+[2022-08-27 23:18:28.589] [test] [info] delta: 5281735.5
+[2022-08-27 23:18:28.677] [test] [info] t:3, training size: 125172, total size: 190480
+[2022-08-27 23:20:50.419] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.183310
+Mean Rank: 593.605883
+Hits@1: 0.115386
+Hits@10: 0.320361
+=================================
+[2022-08-27 23:20:50.536] [test] [info] delta: 3590827.5
+[2022-08-27 23:20:50.637] [test] [info] t:4, training size: 127894, total size: 204086
+[2022-08-27 23:23:18.276] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.180051
+Mean Rank: 567.185918
+Hits@1: 0.111966
+Hits@10: 0.318113
+=================================
+[2022-08-27 23:23:18.414] [test] [info] delta: 2427526.5
+[2022-08-27 23:23:18.531] [test] [info] t:5, training size: 136057, total size: 217692
+[2022-08-27 23:25:52.622] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.184329
+Mean Rank: 528.480407
+Hits@1: 0.115680
+Hits@10: 0.324660
+=================================
+[2022-08-27 23:25:52.756] [test] [info] delta: 1992172.0
+[2022-08-27 23:25:52.887] [test] [info] t:6, training size: 144220, total size: 231297
+[2022-08-27 23:28:35.141] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.184534
+Mean Rank: 504.901251
+Hits@1: 0.115435
+Hits@10: 0.325662
+=================================
+[2022-08-27 23:28:35.280] [test] [info] delta: 1782461.5
+[2022-08-27 23:28:35.406] [test] [info] t:7, training size: 152384, total size: 244903
+[2022-08-27 23:31:28.815] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.188109
+Mean Rank: 482.022867
+Hits@1: 0.118953
+Hits@10: 0.327372
+=================================
+[2022-08-27 23:31:28.964] [test] [info] delta: 1613604.5
+[2022-08-27 23:31:29.096] [test] [info] t:8, training size: 160547, total size: 258509
+[2022-08-27 23:34:30.466] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.188029
+Mean Rank: 463.900884
+Hits@1: 0.118245
+Hits@10: 0.329889
+=================================
+[2022-08-27 23:34:30.633] [test] [info] delta: 1493992.25
+[2022-08-27 23:34:30.779] [test] [info] t:9, training size: 168711, total size: 272115
+[2022-08-27 23:37:41.778] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.189911
+Mean Rank: 444.730553
+Hits@1: 0.118391
+Hits@10: 0.336143
+=================================
+[2022-08-27 23:37:41.779] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.7, lr: 0.01, ewc_lambda: 1.0, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-27 23:37:42.272] [test] [info] 14541, 237
+[2022-08-27 23:37:42.333] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-27 23:40:16.809] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.187020
+Mean Rank: 629.371103
+Hits@1: 0.117268
+Hits@10: 0.329522
+=================================
+[2022-08-27 23:40:16.901] [test] [info] delta: 19134650.0
+[2022-08-27 23:40:16.973] [test] [info] t:2, training size: 122451, total size: 163269
+[2022-08-27 23:42:41.246] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.178728
+Mean Rank: 614.884418
+Hits@1: 0.112186
+Hits@10: 0.314326
+=================================
+[2022-08-27 23:42:41.347] [test] [info] delta: 6885692.0
+[2022-08-27 23:42:41.434] [test] [info] t:3, training size: 141499, total size: 190480
+[2022-08-27 23:45:22.871] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.179685
+Mean Rank: 556.603831
+Hits@1: 0.111136
+Hits@10: 0.320190
+=================================
+[2022-08-27 23:45:22.990] [test] [info] delta: 4087768.5
+[2022-08-27 23:45:23.094] [test] [info] t:4, training size: 146942, total size: 204086
+[2022-08-27 23:48:09.668] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.182439
+Mean Rank: 535.882195
+Hits@1: 0.115289
+Hits@10: 0.318504
+=================================
+[2022-08-27 23:48:09.792] [test] [info] delta: 2698856.25
+[2022-08-27 23:48:09.899] [test] [info] t:5, training size: 156466, total size: 217692
+[2022-08-27 23:51:07.474] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.185221
+Mean Rank: 506.898979
+Hits@1: 0.117390
+Hits@10: 0.321289
+=================================
+[2022-08-27 23:51:07.607] [test] [info] delta: 2074329.75
+[2022-08-27 23:51:07.729] [test] [info] t:6, training size: 165989, total size: 231297
+[2022-08-27 23:54:15.756] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.182054
+Mean Rank: 473.160974
+Hits@1: 0.113554
+Hits@10: 0.320409
+=================================
+[2022-08-27 23:54:15.896] [test] [info] delta: 1882272.0
+[2022-08-27 23:54:16.018] [test] [info] t:7, training size: 175513, total size: 244903
+[2022-08-27 23:57:35.699] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186039
+Mean Rank: 447.223981
+Hits@1: 0.116852
+Hits@10: 0.327739
+=================================
+[2022-08-27 23:57:35.848] [test] [info] delta: 1708626.75
+[2022-08-27 23:57:35.977] [test] [info] t:8, training size: 185038, total size: 258509
+[2022-08-28 00:01:05.346] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186639
+Mean Rank: 426.836778
+Hits@1: 0.117390
+Hits@10: 0.328667
+=================================
+[2022-08-28 00:01:05.504] [test] [info] delta: 1577573.5
+[2022-08-28 00:01:05.642] [test] [info] t:9, training size: 194562, total size: 272115
+[2022-08-28 00:04:45.832] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.190236
+Mean Rank: 414.887032
+Hits@1: 0.119833
+Hits@10: 0.331428
+=================================
+[2022-08-28 00:04:45.832] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.8, lr: 0.01, ewc_lambda: 1.0, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-28 00:04:46.327] [test] [info] 14541, 237
+[2022-08-28 00:04:46.385] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-28 00:07:15.822] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.189088
+Mean Rank: 633.690169
+Hits@1: 0.117317
+Hits@10: 0.334262
+=================================
+[2022-08-28 00:07:15.906] [test] [info] delta: 18406456.0
+[2022-08-28 00:07:15.981] [test] [info] t:2, training size: 136057, total size: 163269
+[2022-08-28 00:09:49.564] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.180183
+Mean Rank: 609.251539
+Hits@1: 0.112357
+Hits@10: 0.318162
+=================================
+[2022-08-28 00:09:49.664] [test] [info] delta: 8312116.0
+[2022-08-28 00:09:49.750] [test] [info] t:3, training size: 157826, total size: 190480
+[2022-08-28 00:12:49.959] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186437
+Mean Rank: 547.424436
+Hits@1: 0.117121
+Hits@10: 0.325662
+=================================
+[2022-08-28 00:12:50.080] [test] [info] delta: 4734363.5
+[2022-08-28 00:12:50.201] [test] [info] t:4, training size: 165990, total size: 204086
+[2022-08-28 00:16:02.061] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.184815
+Mean Rank: 534.915616
+Hits@1: 0.117463
+Hits@10: 0.321973
+=================================
+[2022-08-28 00:16:02.189] [test] [info] delta: 3029302.75
+[2022-08-28 00:16:02.304] [test] [info] t:5, training size: 176874, total size: 217692
+[2022-08-28 00:19:22.182] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.184412
+Mean Rank: 505.662489
+Hits@1: 0.115973
+Hits@10: 0.324172
+=================================
+[2022-08-28 00:19:22.313] [test] [info] delta: 2198620.0
+[2022-08-28 00:19:22.436] [test] [info] t:6, training size: 187758, total size: 231297
+[2022-08-28 00:23:00.659] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.184121
+Mean Rank: 482.144142
+Hits@1: 0.115338
+Hits@10: 0.323756
+=================================
+[2022-08-28 00:23:00.800] [test] [info] delta: 1821716.625
+[2022-08-28 00:23:00.924] [test] [info] t:7, training size: 198643, total size: 244903
+[2022-08-28 00:26:50.532] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.184985
+Mean Rank: 458.515318
+Hits@1: 0.115289
+Hits@10: 0.328007
+=================================
+[2022-08-28 00:26:50.701] [test] [info] delta: 1606931.75
+[2022-08-28 00:26:50.851] [test] [info] t:8, training size: 209528, total size: 258509
+[2022-08-28 00:30:47.568] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.188934
+Mean Rank: 438.630973
+Hits@1: 0.119540
+Hits@10: 0.332112
+=================================
+[2022-08-28 00:30:47.725] [test] [info] delta: 1522404.625
+[2022-08-28 00:30:47.866] [test] [info] t:9, training size: 220413, total size: 272115
+[2022-08-28 00:34:57.436] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.189086
+Mean Rank: 422.866950
+Hits@1: 0.118709
+Hits@10: 0.331916
+=================================
+[2022-08-28 00:34:57.437] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.9, lr: 0.01, ewc_lambda: 1.0, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-28 00:34:58.104] [test] [info] 14541, 237
+[2022-08-28 00:34:58.172] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-28 00:37:28.066] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186857
+Mean Rank: 642.932669
+Hits@1: 0.118611
+Hits@10: 0.326786
+=================================
+[2022-08-28 00:37:28.150] [test] [info] delta: 16196752.0
+[2022-08-28 00:37:28.222] [test] [info] t:2, training size: 149663, total size: 163269
+[2022-08-28 00:40:18.202] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.180813
+Mean Rank: 593.300230
+Hits@1: 0.114189
+Hits@10: 0.316623
+=================================
+[2022-08-28 00:40:18.302] [test] [info] delta: 7064569.0
+[2022-08-28 00:40:18.390] [test] [info] t:3, training size: 174153, total size: 190480
+[2022-08-28 00:43:34.829] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.188069
+Mean Rank: 535.791874
+Hits@1: 0.120395
+Hits@10: 0.324612
+=================================
+[2022-08-28 00:43:34.945] [test] [info] delta: 4001719.0
+[2022-08-28 00:43:35.049] [test] [info] t:4, training size: 185038, total size: 204086
+[2022-08-28 00:47:03.767] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.184951
+Mean Rank: 518.861429
+Hits@1: 0.116584
+Hits@10: 0.323683
+=================================
+[2022-08-28 00:47:03.890] [test] [info] delta: 2452061.0
+[2022-08-28 00:47:04.001] [test] [info] t:5, training size: 197283, total size: 217692
+[2022-08-28 00:50:50.646] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.184485
+Mean Rank: 495.892822
+Hits@1: 0.116388
+Hits@10: 0.321729
+=================================
+[2022-08-28 00:50:50.778] [test] [info] delta: 1828983.125
+[2022-08-28 00:50:50.898] [test] [info] t:6, training size: 209527, total size: 231297
+[2022-08-28 00:54:52.291] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.188730
+Mean Rank: 467.102414
+Hits@1: 0.121519
+Hits@10: 0.324954
+=================================
+[2022-08-28 00:54:52.442] [test] [info] delta: 1525114.0
+[2022-08-28 00:54:52.582] [test] [info] t:7, training size: 221773, total size: 244903
+[2022-08-28 00:59:06.967] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.188729
+Mean Rank: 447.628139
+Hits@1: 0.120028
+Hits@10: 0.327568
+=================================
+[2022-08-28 00:59:07.114] [test] [info] delta: 1325653.75
+[2022-08-28 00:59:07.251] [test] [info] t:8, training size: 234018, total size: 258509
+[2022-08-28 01:03:35.998] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.191451
+Mean Rank: 425.994381
+Hits@1: 0.122520
+Hits@10: 0.329986
+=================================
+[2022-08-28 01:03:36.156] [test] [info] delta: 1225352.25
+[2022-08-28 01:03:36.301] [test] [info] t:9, training size: 246264, total size: 272115
+[2022-08-28 01:08:18.753] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.190333
+Mean Rank: 411.678345
+Hits@1: 0.119686
+Hits@10: 0.333138
+=================================
+[2022-08-28 01:08:18.753] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 1.0, lr: 0.01, ewc_lambda: 1.0, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-28 01:08:19.256] [test] [info] 14541, 237
+[2022-08-28 01:08:19.315] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-28 01:10:49.002] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.187489
+Mean Rank: 659.336143
+Hits@1: 0.118831
+Hits@10: 0.327763
+=================================
+[2022-08-28 01:10:49.086] [test] [info] delta: 19412034.0
+[2022-08-28 01:10:49.161] [test] [info] t:2, training size: 163269, total size: 163269
+[2022-08-28 01:13:52.921] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.183060
+Mean Rank: 617.782468
+Hits@1: 0.113774
+Hits@10: 0.324514
+=================================
+[2022-08-28 01:13:53.021] [test] [info] delta: 10787832.0
+[2022-08-28 01:13:53.107] [test] [info] t:3, training size: 190480, total size: 190480
+[2022-08-28 01:17:28.016] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.185352
+Mean Rank: 569.659362
+Hits@1: 0.116315
+Hits@10: 0.325418
+=================================
+[2022-08-28 01:17:28.132] [test] [info] delta: 6012941.5
+[2022-08-28 01:17:28.233] [test] [info] t:4, training size: 204086, total size: 204086
+[2022-08-28 01:21:19.557] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.183433
+Mean Rank: 551.607911
+Hits@1: 0.114507
+Hits@10: 0.324709
+=================================
+[2022-08-28 01:21:19.681] [test] [info] delta: 3511778.5
+[2022-08-28 01:21:19.791] [test] [info] t:5, training size: 217692, total size: 217692
+[2022-08-28 01:25:26.478] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.182294
+Mean Rank: 542.688386
+Hits@1: 0.113041
+Hits@10: 0.324245
+=================================
+[2022-08-28 01:25:26.612] [test] [info] delta: 2339528.25
+[2022-08-28 01:25:26.731] [test] [info] t:6, training size: 231297, total size: 231297
+[2022-08-28 01:29:48.417] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.184194
+Mean Rank: 521.169476
+Hits@1: 0.114825
+Hits@10: 0.326761
+=================================
+[2022-08-28 01:29:48.558] [test] [info] delta: 1755783.25
+[2022-08-28 01:29:48.684] [test] [info] t:7, training size: 244903, total size: 244903
+[2022-08-28 01:34:26.570] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.188175
+Mean Rank: 495.844620
+Hits@1: 0.118220
+Hits@10: 0.332063
+=================================
+[2022-08-28 01:34:26.719] [test] [info] delta: 1489811.75
+[2022-08-28 01:34:26.854] [test] [info] t:8, training size: 258509, total size: 258509
+[2022-08-28 01:39:20.683] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.187634
+Mean Rank: 474.727866
+Hits@1: 0.116461
+Hits@10: 0.333798
+=================================
+[2022-08-28 01:39:20.841] [test] [info] delta: 1386261.75
+[2022-08-28 01:39:20.984] [test] [info] t:9, training size: 272115, total size: 272115
+[2022-08-28 01:44:34.437] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.189274
+Mean Rank: 458.835630
+Hits@1: 0.118123
+Hits@10: 0.335605
+=================================
+[2022-08-28 01:44:34.437] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.0, lr: 0.01, ewc_lambda: 10.0, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-28 01:44:34.933] [test] [info] 14541, 237
+[2022-08-28 01:44:34.993] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-28 01:47:06.945] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186307
+Mean Rank: 670.460251
+Hits@1: 0.116706
+Hits@10: 0.328838
+=================================
+[2022-08-28 01:47:07.029] [test] [info] delta: 19190836.0
+[2022-08-28 01:47:07.100] [test] [info] t:2, training size: 27212, total size: 163269
+[2022-08-28 01:47:43.325] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.161373
+Mean Rank: 757.978696
+Hits@1: 0.099800
+Hits@10: 0.286890
+=================================
+[2022-08-28 01:47:43.425] [test] [info] delta: 1088455.0
+[2022-08-28 01:47:43.506] [test] [info] t:3, training size: 27211, total size: 190480
+[2022-08-28 01:48:19.753] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.166981
+Mean Rank: 686.656137
+Hits@1: 0.104515
+Hits@10: 0.293902
+=================================
+[2022-08-28 01:48:19.868] [test] [info] delta: 930737.375
+[2022-08-28 01:48:19.962] [test] [info] t:4, training size: 13606, total size: 204086
+[2022-08-28 01:48:41.335] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.155534
+Mean Rank: 727.439509
+Hits@1: 0.096159
+Hits@10: 0.275286
+=================================
+[2022-08-28 01:48:41.458] [test] [info] delta: 372802.0
+[2022-08-28 01:48:41.560] [test] [info] t:5, training size: 13606, total size: 217692
+[2022-08-28 01:49:03.121] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.153705
+Mean Rank: 738.408067
+Hits@1: 0.094400
+Hits@10: 0.272476
+=================================
+[2022-08-28 01:49:03.253] [test] [info] delta: 393124.8125
+[2022-08-28 01:49:03.370] [test] [info] t:6, training size: 13605, total size: 231297
+[2022-08-28 01:49:25.907] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.155818
+Mean Rank: 720.575369
+Hits@1: 0.096330
+Hits@10: 0.272159
+=================================
+[2022-08-28 01:49:26.046] [test] [info] delta: 389219.0
+[2022-08-28 01:49:26.162] [test] [info] t:7, training size: 13606, total size: 244903
+[2022-08-28 01:49:47.621] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.153692
+Mean Rank: 701.868367
+Hits@1: 0.094254
+Hits@10: 0.274015
+=================================
+[2022-08-28 01:49:47.771] [test] [info] delta: 376601.3125
+[2022-08-28 01:49:47.894] [test] [info] t:8, training size: 13606, total size: 258509
+[2022-08-28 01:50:10.072] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.159711
+Mean Rank: 681.267834
+Hits@1: 0.101290
+Hits@10: 0.276068
+=================================
+[2022-08-28 01:50:10.231] [test] [info] delta: 378177.9375
+[2022-08-28 01:50:10.362] [test] [info] t:9, training size: 13606, total size: 272115
+[2022-08-28 01:50:32.457] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.156762
+Mean Rank: 678.576810
+Hits@1: 0.096404
+Hits@10: 0.276703
+=================================
+[2022-08-28 01:50:32.458] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.1, lr: 0.01, ewc_lambda: 10.0, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-28 01:50:32.940] [test] [info] 14541, 237
+[2022-08-28 01:50:32.996] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-28 01:53:04.052] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.185732
+Mean Rank: 694.074147
+Hits@1: 0.117585
+Hits@10: 0.327323
+=================================
+[2022-08-28 01:53:04.137] [test] [info] delta: 16020484.0
+[2022-08-28 01:53:04.208] [test] [info] t:2, training size: 40817, total size: 163269
+[2022-08-28 01:53:54.277] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.166590
+Mean Rank: 734.623302
+Hits@1: 0.104564
+Hits@10: 0.291948
+=================================
+[2022-08-28 01:53:54.378] [test] [info] delta: 1333307.5
+[2022-08-28 01:53:54.459] [test] [info] t:3, training size: 43537, total size: 190480
+[2022-08-28 01:54:47.895] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.174745
+Mean Rank: 663.355932
+Hits@1: 0.111526
+Hits@10: 0.302966
+=================================
+[2022-08-28 01:54:48.012] [test] [info] delta: 1139004.75
+[2022-08-28 01:54:48.111] [test] [info] t:4, training size: 32654, total size: 204086
+[2022-08-28 01:55:30.092] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.170627
+Mean Rank: 662.017834
+Hits@1: 0.107813
+Hits@10: 0.295832
+=================================
+[2022-08-28 01:55:30.216] [test] [info] delta: 721169.375
+[2022-08-28 01:55:30.322] [test] [info] t:5, training size: 34014, total size: 217692
+[2022-08-28 01:56:14.781] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.170340
+Mean Rank: 630.176683
+Hits@1: 0.107398
+Hits@10: 0.295832
+=================================
+[2022-08-28 01:56:14.922] [test] [info] delta: 758399.25
+[2022-08-28 01:56:15.038] [test] [info] t:6, training size: 35374, total size: 231297
+[2022-08-28 01:57:00.753] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.171732
+Mean Rank: 596.672872
+Hits@1: 0.108228
+Hits@10: 0.296931
+=================================
+[2022-08-28 01:57:00.893] [test] [info] delta: 745532.625
+[2022-08-28 01:57:01.011] [test] [info] t:7, training size: 36735, total size: 244903
+[2022-08-28 01:57:47.108] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.173323
+Mean Rank: 571.526727
+Hits@1: 0.108155
+Hits@10: 0.304383
+=================================
+[2022-08-28 01:57:47.256] [test] [info] delta: 748201.75
+[2022-08-28 01:57:47.380] [test] [info] t:8, training size: 38096, total size: 258509
+[2022-08-28 01:58:36.136] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.174889
+Mean Rank: 551.343619
+Hits@1: 0.110916
+Hits@10: 0.301744
+=================================
+[2022-08-28 01:58:36.293] [test] [info] delta: 734628.6875
+[2022-08-28 01:58:36.424] [test] [info] t:9, training size: 39456, total size: 272115
+[2022-08-28 01:59:26.304] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.176699
+Mean Rank: 526.460984
+Hits@1: 0.113212
+Hits@10: 0.304481
+=================================
+[2022-08-28 01:59:26.305] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.2, lr: 0.01, ewc_lambda: 10.0, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-28 01:59:26.790] [test] [info] 14541, 237
+[2022-08-28 01:59:26.847] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-28 02:01:56.298] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.185152
+Mean Rank: 652.437213
+Hits@1: 0.117121
+Hits@10: 0.324807
+=================================
+[2022-08-28 02:01:56.381] [test] [info] delta: 16810730.0
+[2022-08-28 02:01:56.448] [test] [info] t:2, training size: 54423, total size: 163269
+[2022-08-28 02:03:00.959] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.173229
+Mean Rank: 664.699257
+Hits@1: 0.108815
+Hits@10: 0.302257
+=================================
+[2022-08-28 02:03:01.059] [test] [info] delta: 2130062.0
+[2022-08-28 02:03:01.140] [test] [info] t:3, training size: 59864, total size: 190480
+[2022-08-28 02:04:11.533] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.177680
+Mean Rank: 607.513486
+Hits@1: 0.109767
+Hits@10: 0.313715
+=================================
+[2022-08-28 02:04:11.648] [test] [info] delta: 1616485.5
+[2022-08-28 02:04:11.745] [test] [info] t:4, training size: 51702, total size: 204086
+[2022-08-28 02:05:13.856] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.171837
+Mean Rank: 596.452531
+Hits@1: 0.107178
+Hits@10: 0.302477
+=================================
+[2022-08-28 02:05:13.984] [test] [info] delta: 1185816.5
+[2022-08-28 02:05:14.117] [test] [info] t:5, training size: 54423, total size: 217692
+[2022-08-28 02:06:19.009] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.174830
+Mean Rank: 564.829913
+Hits@1: 0.108644
+Hits@10: 0.307828
+=================================
+[2022-08-28 02:06:19.141] [test] [info] delta: 1151927.25
+[2022-08-28 02:06:19.253] [test] [info] t:6, training size: 57143, total size: 231297
+[2022-08-28 02:07:27.134] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.178045
+Mean Rank: 540.673483
+Hits@1: 0.111917
+Hits@10: 0.311492
+=================================
+[2022-08-28 02:07:27.287] [test] [info] delta: 1106133.0
+[2022-08-28 02:07:27.408] [test] [info] t:7, training size: 59865, total size: 244903
+[2022-08-28 02:08:40.810] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.179245
+Mean Rank: 512.125183
+Hits@1: 0.112406
+Hits@10: 0.312836
+=================================
+[2022-08-28 02:08:40.958] [test] [info] delta: 1105354.875
+[2022-08-28 02:08:41.084] [test] [info] t:8, training size: 62586, total size: 258509
+[2022-08-28 02:09:56.192] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.182616
+Mean Rank: 493.619735
+Hits@1: 0.115851
+Hits@10: 0.316745
+=================================
+[2022-08-28 02:09:56.357] [test] [info] delta: 1125384.25
+[2022-08-28 02:09:56.495] [test] [info] t:9, training size: 65307, total size: 272115
+[2022-08-28 02:11:13.148] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.186138
+Mean Rank: 464.360671
+Hits@1: 0.117683
+Hits@10: 0.325760
+=================================
+[2022-08-28 02:11:13.149] [test] [info] Embed size: 100, batch size: 1024, total epoch: 100, new ratio: 0.3, lr: 0.01, ewc_lambda: 10.0, ewc_type: ewc, new_type: random, num_neigh_layers: 2, dataset: FB15K237
+[2022-08-28 02:11:13.631] [test] [info] 14541, 237
+[2022-08-28 02:11:13.687] [test] [info] t:1, training size: 136057, total size: 136057
+[2022-08-28 02:13:42.451] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.192852
+Mean Rank: 674.955365
+Hits@1: 0.121934
+Hits@10: 0.336509
+=================================
+[2022-08-28 02:13:42.535] [test] [info] delta: 16404831.0
+[2022-08-28 02:13:42.602] [test] [info] t:2, training size: 68029, total size: 163269
+[2022-08-28 02:15:02.521] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.179063
+Mean Rank: 662.229820
+Hits@1: 0.112772
+Hits@10: 0.316623
+=================================
+[2022-08-28 02:15:02.621] [test] [info] delta: 2404688.5
+[2022-08-28 02:15:02.703] [test] [info] t:3, training size: 76191, total size: 190480
+[2022-08-28 02:16:31.578] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.185556
+Mean Rank: 579.128164
+Hits@1: 0.117390
+Hits@10: 0.323561
+=================================
+[2022-08-28 02:16:31.694] [test] [info] delta: 1754990.75
+[2022-08-28 02:16:31.793] [test] [info] t:4, training size: 70750, total size: 204086
+[2022-08-28 02:17:54.823] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.178727
+Mean Rank: 556.510139
+Hits@1: 0.110378
+Hits@10: 0.314204
+=================================
+[2022-08-28 02:17:54.947] [test] [info] delta: 1329539.75
+[2022-08-28 02:17:55.053] [test] [info] t:5, training size: 74831, total size: 217692
+[2022-08-28 02:19:22.537] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.183444
+Mean Rank: 528.220732
+Hits@1: 0.116119
+Hits@10: 0.319823
+=================================
+[2022-08-28 02:19:22.669] [test] [info] delta: 1288455.5
+[2022-08-28 02:19:22.779] [test] [info] t:6, training size: 78912, total size: 231297
+[2022-08-28 02:20:56.708] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.185063
+Mean Rank: 508.574001
+Hits@1: 0.117927
+Hits@10: 0.320629
+=================================
+[2022-08-28 02:20:56.855] [test] [info] delta: 1240332.25
+[2022-08-28 02:20:56.983] [test] [info] t:7, training size: 82995, total size: 244903
+[2022-08-28 02:22:33.437] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.187041
+Mean Rank: 484.007134
+Hits@1: 0.118489
+Hits@10: 0.324587
+=================================
+[2022-08-28 02:22:33.586] [test] [info] delta: 1232716.75
+[2022-08-28 02:22:33.711] [test] [info] t:8, training size: 87076, total size: 258509
+[2022-08-28 02:24:14.102] [info] [reporting.cpp:106] 
+=================================
+Link Prediction: 40932 edges evaluated
+MRR: 0.185765
+Mean Rank: 465.365606
+Hits@1: 0.116437
+Hits@10: 0.327983
+=================================
+[2022-08-28 02:24:14.259] [test] [info] delta: 1198942.125
+[2022-08-28 02:24:14.391] [test] [info] t:9, training size: 91158, total size: 272115
